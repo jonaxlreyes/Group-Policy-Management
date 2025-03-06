@@ -1,30 +1,36 @@
-<h1>Configuring Group Policy</h1>
+<h1>Configuring Group Policy Management</h1>
 
  
 
 <h2>Description</h2>
-I will install Oracle VirtualBox, a powerful virtualization software that allows me to create and manage virtual machines. This will enable me to run multiple operating systems on a single physical machine, simulating a real IT environment.
+In this phase of my IT helpdesk home lab, I will configure Group Policy Management (GPM) to enforce security settings, user permissions, and system configurations across my domain. Group Policy Objects (GPOs) are essential in an enterprise environment for managing user and computer settings centrally.
+By mastering Group Policy Management, I will develop critical skills in securing and maintaining IT environments, troubleshooting policy-related issues, and ensuring compliance with organizational IT policies.
 <br />
+<br/>
 
 
-<h2>Utilities Used</h2>
 
-- <b>VirtualBox</b> 
+
+
 
 
 
 <p align="center">
-Launch the VirtualBox: <br/>
-<img src="https://i.imgur.com/2RLTEtE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Group Policy Management: <br/>
+<img src="https://imgur.com/WWeoW6W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Install Windows 10 Server 2016:  <br/>
-<img src="https://i.imgur.com/cEEAukB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/G1JIzpW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
+Account Policies: <br/>
+<img src="https://imgur.com/t7SKzLa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Windows 10 Server 2016:  <br/>
-<img src="https://i.imgur.com/YERSaCm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Before Configuring: <br/>
+<img src="https://imgur.com/m1HG0K8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+After Configuring: <br/>
+<img src="https://imgur.com/4309NYp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
